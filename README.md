@@ -1,7 +1,7 @@
 bamboo-vagrant-install
 ===================
 
-A project that uses Vagrant and Puppet to create and boot either a VirtualBox VM or Amazon EC2 instance and then download and install a copy of Bamboo 5.2.  
+A project that uses Vagrant and Puppet to create and boot either a VirtualBox VM or Amazon EC2 instance and then download and install a copy of Bamboo 5.4.  
 
 ## Notes
 
