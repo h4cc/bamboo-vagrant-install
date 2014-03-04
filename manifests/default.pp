@@ -12,7 +12,7 @@ class must-have {
 
   apt::ppa { "ppa:webupd8team/java": }
 
-  $bamboo_version = "5.2"
+  $bamboo_version = "5.4"
   $bamboo_install = "/vagrant/atlassian-bamboo-${bamboo_version}"
   $bamboo_home = "/vagrant/bamboo-home"
   
